@@ -65,7 +65,7 @@
 - **Solara** offers moderate compatibility and cross-platform support but lacks advanced execution features.
 - **Celery** and **Byte Breaker** have limited script compatibility and basic features, making them more suitable for lightweight or beginner tasks.
 
-
+---
 
 - **🗂️ Superior Script Library:** Access a curated, up-to-date library with **require** and **FE** scripts that normally wouldn't run on other executors.
 - **⚡ Unmatched Speed:** Whether you're running small or large scripts, Apex processes them **faster** than competitors, like **Solara** and **Celery**, making it one of the fastest executors available.
