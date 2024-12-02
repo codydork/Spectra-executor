@@ -1,0 +1,1 @@
+This is an experimental roblox executor that utilises an exploit that was recently found by me. This exploit utilises  the use of certain fflags and certain running processes in the game to give the user priviliged access only equal to an admin. This means fe and ss and other scripts can be ran as if we were in post-hyperion and post-fe.
