@@ -10,7 +10,7 @@ A **mobile version** is also in development, as the same exploit has been confir
 
 ### Pricing
 
-**Apex is a paid executor**. It is available for **£10 per month**, giving you access to its full range of features, including **fast execution**, **SaveInstance** capabilities, and the **expansive script library**.
+**Apex is a paid executor**. It is available for **£10 per month** for now, giving you access to its full range of features, including **fast execution**, **SaveInstance** capabilities, and the **expansive script library**.
 
 ### Features
 
