@@ -67,7 +67,7 @@
 
 ---
 
-- **🗂️ Superior Script Library:** Access a curated, up-to-date library with **require** and **FE** scripts that normally wouldn't run on other executors.
+- **🗂️ Superior Script Library:** Access a curated, up-to-date library with **require** scripts that normally wouldn't run on other executors.
 - **⚡ Unmatched Speed:** Whether you're running small or large scripts, Apex processes them **faster** than competitors, like **Solara** and **Celery**, making it one of the fastest executors available.
 - **🌐 Cross-Platform Functionality:** Works smoothly on both **website** and **app** versions of Roblox for desktop.
 - **🕵️‍♂️ Undetectable Execution:** Designed for stealth, Apex is engineered to avoid detection by Roblox’s anti-cheat systems, keeping your account safer.
