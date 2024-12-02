@@ -54,8 +54,8 @@ A mobile version is in development, as the same exploit has been found to work o
 - [ ] Improve stability and support for more Roblox game scripts.
 - [ ] Further enhance UI/UX for an even smoother user experience.
 - [ ] Continue testing and improving **anti-detection** capabilities.
-- [ ] Expand the **SaveInstance** functionality to cover more complex game data and structures.
-- [ ] Release a **mobile version** of the executor, currently in development.
+- [ ] Expand the **SaveInstance** functionality to cover more complex game data, scripts and structures.
+- [ ] Release a **mobile version** of the executor.
 
 ---
 
