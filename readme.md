@@ -32,9 +32,9 @@
 
 ---
 
-### ⚡ Why Apex Stands Out
+## ⚡ Why Apex Stands Out
 
-## ⚡ **Executor Comparison Table**
+### ⚡ **Executor Comparison Table**
 
 | Feature                       | **Apex**               | **Wave**            | **Solara**          | **Celery**          | **Byte Breaker**    |
 |-------------------------------|------------------------|---------------------|---------------------|---------------------|---------------------|
