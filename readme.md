@@ -4,6 +4,10 @@
 
 ---
 
+join discord pls: https://discord.gg/KzY3PmZuWC
+
+---
+
 ### Overview
 
 **Apex** is an **experimental Roblox executor** that uses a newly discovered exploit to provide **privileged access** within the game. By utilising specific **FFlags** and manipulating and utilising **running code within the game**, Apex grants admin-level permissions, allowing for advanced exploits such as **require scripts**, **server-sided (SS) scripts**, and more. Apex is designed for **speed**, **reliability**, and **cross-platform compatibility**, working on both the **website** and **app versions** of Roblox on desktop.
