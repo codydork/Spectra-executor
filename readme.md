@@ -6,7 +6,7 @@
 
 ### Overview
 
-**Apex** is an **experimental Roblox executor** that uses a newly discovered exploit to provide **privileged access** within the game. By utilising specific **FFlags** and **running processes**, Apex grants admin-level permissions, allowing for advanced exploits such as **require scripts**, **server-sided (SS) scripts**, and more. Apex is designed for **speed**, **reliability**, and **cross-platform compatibility**, working on both the **website** and **app versions** of Roblox on desktop.
+**Apex** is an **experimental Roblox executor** that uses a newly discovered exploit to provide **privileged access** within the game. By utilising specific **FFlags** and manipulating and utilising **running code within the game**, Apex grants admin-level permissions, allowing for advanced exploits such as **require scripts**, **server-sided (SS) scripts**, and more. Apex is designed for **speed**, **reliability**, and **cross-platform compatibility**, working on both the **website** and **app versions** of Roblox on desktop.
 
 📱 A **mobile version** is in development, as the same exploit has been confirmed to work on **Roblox mobile**.
 
@@ -21,7 +21,7 @@
 ### 🌟 Features
 
 - **👑 Privileged Access:** Apex provides admin-level access, as if you were the owner of the game, or like the root user on linux, offering complete control and flexibility in gameplay, and bypassing fe and hyperion with ease as if you were in a post hyperion and fe enviroment, sometimes I even forget I am in an era with hyperion and fe when using this executor
-- **⚙️ Exploit Mechanics:** A powerful combination of certain **FFlags**, exploiting them, and manipulating Roblox processes and more allows Apex to bypass **Filtering Enabled (FE)** and **Hyperion** restrictions.
+- **⚙️ Exploit Mechanics:** A powerful combination of certain **FFlags**, exploiting them, then manipulating running code within the game allows Apex to bypass **Filtering Enabled (FE)** and **Hyperion** restrictions.
 - **🖥️ Cross-Platform Compatibility:** Works on both the **website** and **app** versions of Roblox on desktop for seamless functionality.
 - **📜 Expansive Script Library:** Apex includes a **growing collection of scripts** like **require scripts**, **FE scripts**, and more. This library is continuously updated with the latest and most powerful scripts.
 - **🚀 Speedy Execution:** Apex delivers **blazing-fast execution** speeds for even the most complex scripts, ensuring smooth gameplay without lag.
