@@ -22,7 +22,7 @@ This is an **experimental Roblox executor** that utiliises a newly discovered ex
 
 ### How to Use
 
-1. **Download** the executor from the [releases section](#) (add link here).
+1. **Download** the executor from the [releases section](#).
 2. Launch the executor and follow the instructions provided to attach it to your Roblox process.
 3. Use supported scripts to run commands and leverage the exploit's full potential.
 
