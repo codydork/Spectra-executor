@@ -109,6 +109,8 @@
 - [ ] Continue testing and improving **anti-detection** capabilities.
 - [ ] Expand the **SaveInstance** feature to handle even more complex data and assets.
 - [ ] Release a **mobile version** of the executor soon!
+- [ ] Inprove UNC
+- [ ] Make an AI that when prompt is typed in creates and executes that script eg if u say "create a aimbot script" it will create and execute one, can do the same with ss scripts, and then implement more ai features into the executor
 
 ---
 
