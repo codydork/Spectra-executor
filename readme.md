@@ -12,7 +12,7 @@ This is an **experimental Roblox executor** that utiliises a newly discovered ex
 - **Speed:** the exploit just so happens to give insane execution speed, especially when running big scripts.
 
 ### What this means:
-- You can run scripts with extended privileges, typically reserved for admin users.
+- You can run scripts with root privileges, typically reserved for game admins and owners, a bit like the root user in linux.
 - this will revolutionise the way executors are made and used, most likely
 - Execute both client-side and server-side scripts effectively.
 - Bypass certain in-game restrictions related to Roblox's security layers (Filtering Enabled).
