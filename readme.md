@@ -1,4 +1,4 @@
-# Spectra Roblox Executor (Experimental, in very early beta)
+# Vortex Roblox Executor (Experimental, in very early beta)
 
 ### coming soon! (Made entirely by me)
 
