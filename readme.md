@@ -34,6 +34,39 @@
 
 ### ⚡ Why Apex Stands Out
 
+## ⚡ Table
+
+| Feature                       | **Apex**               | **Solara**          | **Celery**          | **Byte Breaker**    |
+|-------------------------------|------------------------|---------------------|---------------------|---------------------|
+| **Admin-Level Access (fe and ss support)**        | ✅ Advanced            | ❌ None             | ❌ None             | ❌ None             |
+| **Cross-Platform Compatibility** | ✅ Advanced          | ❌ Limited      | ❌ Limited          | ⚠️ Desktop Only     |
+| **Expansive Script Library**  | ✅ Advanced            | ⚠️ Basic            | 🟡 Intermediate          | ❌ Minimal          |
+| **Speed of Execution**        | 🚀 Fastest            | ⚡ Moderate         | ✅ Fast         | ✅ Fast         |
+| **Likely to crash**        | ✅ Least Likely            | ⚠️ Likely         | ✅ Not Likely         | ✅ Not Likely         |
+| **SaveInstance Capabilities** | ✅ Advanced            | ⚠️ Basic            | ⚠️ Basic            | ⚠️ Basic            |
+| **UNC (Universal Script Compatibility)** | ✅ High            | ✅ High           | ✅ Highest              | ✅ High              |
+| **UI/UX Design**              | 🎨 Intuitive          | ⚠️ Basic            | ⚠️ Basic            | ❌ Outdated         |
+| **Feature Levels**            | 🌟 High-End Features  | ⚙️ Entry-Level Tools | ⚙️ Mid-Level Tools| ⚙️ Entry-Level Tools|
+| **Mobile Support**            | 🚀 In Development     | ❌ None             | ❌ None             | ❌ None             |
+
+---
+
+### **Explanation of Levels**
+- **✅ Advanced (🟢)**: Robust and comprehensive features designed for professional or extensive use, with exceptional performance and reliability.
+- **🟡 Intermediate**: Functional and effective for most tasks but may have occasional limitations, such as reduced flexibility, slower performance in specific scenarios, or partial feature coverage.
+- **⚠️ Basic (🔴)**: Entry-level functionality; sufficient for simple tasks but lacks advanced tools, stability, or performance optimization.
+- **❌ None**: Feature is not available or implemented.
+
+
+---
+
+### **Key Takeaways**
+- **Apex** excels (kinda) in **Universal Script Compatibility (UNC)**, meaning it supports a wide range of scripts, including complex ones that other executors struggle to handle.
+- **Solara** offers moderate compatibility and cross-platform support but lacks advanced execution features.
+- **Celery** and **Byte Breaker** have limited script compatibility and basic features, making them more suitable for lightweight or beginner tasks.
+
+
+
 - **🗂️ Superior Script Library:** Access a curated, up-to-date library with **require** and **FE** scripts that normally wouldn't run on other executors.
 - **⚡ Unmatched Speed:** Whether you're running small or large scripts, Apex processes them **faster** than competitors, like **Solara** and **Celery**, making it one of the fastest executors available.
 - **🌐 Cross-Platform Functionality:** Works smoothly on both **website** and **app** versions of Roblox for desktop.
