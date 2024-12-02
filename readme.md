@@ -77,7 +77,7 @@
 
 ### 📱 What’s Coming Next
 
-- **Mobile Version in Development:** A **mobile version** of Apex is on the way! The same exploit found on desktop versions of Roblox is confirmed to work on **Roblox mobile**, and development has already begun. Expect similar powerful features, including script execution and SaveInstance, on **mobile devices** soon.
+- **Mobile Version in Development:** A **mobile version** of Apex is on the way! The same exploit found on desktop versions of Roblox is confirmed to work on **Roblox mobile**, and development has already begun. Expect similar powerful features, including script execution and post-fe and ss script execution, including require, on **mobile devices** soon.
 
 ---
 
