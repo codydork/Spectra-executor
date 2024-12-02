@@ -40,7 +40,7 @@ A mobile version is in development, as the same exploit has been found to work o
 
 ### How to Use
 
-1. **Download** the executor from the [releases section](#).
+1. **Download** the executor from the [releases section](#). ***(NOT RELEASED YET)***
 2. Launch the executor and follow the instructions provided to attach it to your Roblox process (works on both the **website** and **app versions**).
 3. Use supported scripts from the **expansive script library** or your own custom scripts to leverage the full potential of the executor.
 
