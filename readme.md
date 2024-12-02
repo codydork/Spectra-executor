@@ -21,7 +21,7 @@
 ### 🌟 Features
 
 - **👑 Privileged Access:** Apex provides admin-level access, as if you were the owner of the game, or like the root user on linux, offering complete control and flexibility in gameplay, and bypassing fe and hyperion with ease as if you were in a post hyperion and fe enviroment, sometimes I even forget I am in an era with hyperion and fe when using this executor
-- **⚙️ Exploit Mechanics:** A powerful combination of **FFlags** and manipulating  Roblox processes allows Apex to bypass **Filtering Enabled (FE)** and **Hyperion** restrictions.
+- **⚙️ Exploit Mechanics:** A powerful combination of certain **FFlags**, exploiting them, and manipulating Roblox processes and more allows Apex to bypass **Filtering Enabled (FE)** and **Hyperion** restrictions.
 - **🖥️ Cross-Platform Compatibility:** Works on both the **website** and **app** versions of Roblox on desktop for seamless functionality.
 - **📜 Expansive Script Library:** Apex includes a **growing collection of scripts** like **require scripts**, **FE scripts**, and more. This library is continuously updated with the latest and most powerful scripts.
 - **🚀 Speedy Execution:** Apex delivers **blazing-fast execution** speeds for even the most complex scripts, ensuring smooth gameplay without lag.
@@ -34,29 +34,29 @@
 
 ### ⚡ Why Apex Stands Out
 
-## ⚡ Table
+## ⚡ **Executor Comparison Table**
 
-| Feature                       | **Apex**               | **Solara**          | **Celery**          | **Byte Breaker**    |
-|-------------------------------|------------------------|---------------------|---------------------|---------------------|
-| **Admin-Level Access (fe and ss support)**        | ✅ Advanced            | ❌ None             | ❌ None             | ❌ None             |
-| **Cross-Platform Compatibility** | ✅ Advanced          | ❌ Limited      | ❌ Limited          | ⚠️ Desktop Only     |
-| **Expansive Script Library**  | ✅ Advanced            | ⚠️ Basic            | 🟡 Intermediate          | ❌ Minimal          |
-| **Speed of Execution**        | 🚀 Fastest            | ⚡ Moderate         | ✅ Fast         | ✅ Fast         |
-| **Likely to crash**        | ✅ Least Likely            | ⚠️ Likely         | ✅ Not Likely         | ✅ Not Likely         |
-| **SaveInstance Capabilities** | ✅ Advanced            | ⚠️ Basic            | ⚠️ Basic            | ⚠️ Basic            |
-| **UNC (Universal Script Compatibility)** | ✅ High            | ✅ High           | ✅ Highest              | ✅ High              |
-| **UI/UX Design**              | 🎨 Intuitive          | ⚠️ Basic            | ⚠️ Basic            | ❌ Outdated         |
-| **Feature Levels**            | 🌟 High-End Features  | ⚙️ Entry-Level Tools | ⚙️ Mid-Level Tools| ⚙️ Entry-Level Tools|
-| **Mobile Support**            | 🚀 In Development     | ❌ None             | ❌ None             | ❌ None             |
+| Feature                       | **Apex**               | **Wave**            | **Solara**          | **Celery**          | **Byte Breaker**    |
+|-------------------------------|------------------------|---------------------|---------------------|---------------------|---------------------|
+| **Admin-Level Access (FE and SS Support)** | ✅ Advanced            | ❌ None      | ❌ None             | ❌ None             | ❌ None             |
+| **Cross-Platform Compatibility (web and app)** | ✅ Advanced          | ❌ Limited          | ❌ Limited          | ❌ Limited          | ⚠️ Desktop Only     |
+| **Expansive Script Library**  | ✅ Advanced            | ✅ Advanced          | ⚠️ Basic            | 🟡 Intermediate     | ❌ Minimal          |
+| **Speed of Execution**        | 🚀 Fastest            | ✅  Really Fast           | ⚡ Moderate         | ✅ Fast             | ✅ Fast             |
+| **Likely to Crash**           | ✅ Least Likely        | ✅ Unikely      | ⚠️ Likely          | ✅ Unlikely       | ✅ Unlikely       |
+| **SaveInstance Capabilities** | ✅ Best            | ✅ Good          | ⚠️ Basic            | ⚠️ Basic            | ⚠️ Basic            |
+| **UNC (Universal Script Compatibility)** | ✅ High            | ✅ Highest          | ✅ High             | ✅ Highest          | ✅ High             |
+| **UI/UX Design**              | 🎨 Very Polished          | 🎨 Polished          | ⚠️ Basic            | ⚠️ Basic            | ❌ Outdated         |
+| **Feature Levels**            | 🌟 High-End Features  | ⚙️ Advanced-Level Tools | ⚙️ Entry-Level Tools| ⚙️ Mid-Level Tools  | ⚙️ Entry-Level Tools|
+| **Mobile Support**            | 🚀 In Development     | ❌ None             | ❌ None             | ❌ None             | ❌ None             |
 
 ---
 
-### **Explanation of Levels**
-- **✅ Advanced (🟢)**: Robust and comprehensive features designed for professional or extensive use, with exceptional performance and reliability.
-- **🟡 Intermediate**: Functional and effective for most tasks but may have occasional limitations, such as reduced flexibility, slower performance in specific scenarios, or partial feature coverage.
-- **⚠️ Basic (🔴)**: Entry-level functionality; sufficient for simple tasks but lacks advanced tools, stability, or performance optimization.
-- **❌ None**: Feature is not available or implemented.
-
+### **Legend**
+- **✅ Advanced (🟢)**: Fully developed and highly effective for professional use.
+- **🟡 Intermediate**: Functional with some limitations or reduced flexibility.
+- **⚠️ Basic (🔴)**: Entry-level, functional but lacks advanced features.
+- **❌ None**: Feature not available or implemented.
+- **🎨 Polished**: Indicates a refined and user-friendly design.
 
 ---
 
