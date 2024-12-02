@@ -1,4 +1,4 @@
-# Roblox Executor (Have not come up with the name yet) (Experimental)
+# Spectra Roblox Executor (Experimental, in very early beta)
 
 ### coming soon! (Made entirely by me)
 
