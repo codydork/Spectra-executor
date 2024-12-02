@@ -20,15 +20,15 @@
 
 ### 🌟 Features
 
-- **👑 Privileged Access:** Apex provides admin-level access, offering complete control and flexibility in gameplay.
-- **⚙️ Exploit Mechanics:** A powerful combination of **FFlags** and Roblox processes allows Apex to bypass **Filtering Enabled (FE)** and **Hyperion** restrictions.
+- **👑 Privileged Access:** Apex provides admin-level access, as if you were the owner of the game, or like the root user on linux, offering complete control and flexibility in gameplay, and bypassing fe and hyperion with ease as if you were in a post hyperion and fe enviroment, sometimes I even forget I am in an era with hyperion and fe when using this executor
+- **⚙️ Exploit Mechanics:** A powerful combination of **FFlags** and manipulating  Roblox processes allows Apex to bypass **Filtering Enabled (FE)** and **Hyperion** restrictions.
 - **🖥️ Cross-Platform Compatibility:** Works on both the **website** and **app** versions of Roblox on desktop for seamless functionality.
 - **📜 Expansive Script Library:** Apex includes a **growing collection of scripts** like **require scripts**, **FE scripts**, and more. This library is continuously updated with the latest and most powerful scripts.
 - **🚀 Speedy Execution:** Apex delivers **blazing-fast execution** speeds for even the most complex scripts, ensuring smooth gameplay without lag.
 - **🛡️ Undetectable:** Apex operates stealthily within Roblox, significantly reducing the risk of detection and account bans.
 - **💾 Advanced SaveInstance:** The **SaveInstance** feature allows users to save **server scripts**, **local scripts**, and other assets with impressive speed and precision. It's optimized for accuracy and is faster than other executors.
 - **🎨 Stylish UI:** Apex includes a **clean, intuitive interface**, making it easy to use for beginners and advanced users alike.
-- **⚖️ Tested Against Competitors:** Apex has been rigorously tested against leading executors like **Solara**, **Celery**, and **Byte Breaker**, outperforming them in speed, reliability, and script execution.
+- **⚖️ Tested Against Competitors:** Despite its early stages of development, Apex has been rigorously tested against leading executors like **Solara**, **Celery**, and **Byte Breaker**, outperforming them in speed, reliability, and script execution, maybe not unc, but we are working on the unc.
 
 ---
 
