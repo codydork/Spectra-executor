@@ -7,7 +7,7 @@ All notable changes to the **Apex Roblox Executor** will be documented here.
 ## [v0.1.6] - 2024-12-02
 ### Added
 - **Improved Anti-Detection**: Enhanced stealth mode to further minimize detection risks by Roblox's anti-cheat systems.
-- **Script Library Expansion**: Added 10+ new scripts, including advanced **require** and **FE** scripts.
+- **Script Library Expansion**: Added new scripts, got new partners with script librarys eg scriptblox.com, and including advanced **require** and **FE** scripts, custom made  or web scouring for them.
 - **SaveInstance Enhancements**: Improved handling of complex game assets for faster and more accurate saving.
 - **Cross-Version Compatibility**: Extended support for both **Roblox website** and **app versions**, ensuring seamless execution across platforms.
 
@@ -34,7 +34,7 @@ All notable changes to the **Apex Roblox Executor** will be documented here.
 ## [v0.1.4] - 2024-11-01
 ### Added
 - **Advanced Debug Tools**: New console for monitoring script execution and identifying errors.
-- **New Scripts**: Added 5 server-sided (SS) scripts to the library.
+- **New Scripts**: Added 15 server-sided (SS) scripts to the library, and got new partners.
 
 ### Changed
 - Optimized execution speed for both FE and server-sided scripts.
