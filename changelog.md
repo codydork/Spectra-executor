@@ -55,7 +55,7 @@ All notable changes to the **Apex Roblox Executor** will be documented here.
 - **Error Logging**: Added a new logging system for better debugging of script errors.
 
 ### Changed
-- Updated anti-detection mechanisms to keep up with Roblox's Hyperion updates.
+- Updated anti-detection mechanisms via updating the exploit and how it is done, for extra speed aswell.
 
 ---
 
