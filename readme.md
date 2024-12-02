@@ -203,4 +203,4 @@ Apex is continuously evolving, and your feedback is essential! If you encounter 
 
 ### 📜 Legal Disclaimer
 
-Apex is provided for **educational purposes only**. The developers are not responsible for misuse, including account bans or other consequences. By using this tool, you acknowledge the risks and accept full responsibility for your actions.
+Apex is provided for **educational purposes only**. I am not responsible for misuse, including account bans or other consequences. By using this tool, you acknowledge the risks and accept full responsibility for your actions.
