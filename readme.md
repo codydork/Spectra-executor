@@ -22,7 +22,7 @@ A **mobile version** is also in development, as the same exploit has been confir
 - **Undetectable:** Designed to minimize detection, Apex operates stealthily within Roblox, significantly reducing the risk of account bans or other penalties.
 - **Advanced SaveInstance:** The built-in **SaveInstance** feature allows you to save **server scripts**, **local scripts**, **assets**, and other critical game data with high speed and accuracy. Apex’s SaveInstance is far superior to competitors, ensuring reliable extraction of game data.
 - **Stylish and Intuitive UI:** Apex features a clean, user-friendly interface that makes it easy to navigate and execute scripts, even for beginners.
-- **Tested Against Leading Executors:** Apex has been tested against other leading executors like **Solara**, **Celery**, **Byte Breaker**, and more. It has consistently outperformed them in terms of speed, undetectability, script execution reliability, and overall performance.
+- **Tested Against Leading Executors:** Despite its very early stages of development, Apex has been tested against other leading executors like **Solara**, **Celery**, **Byte Breaker**, and more. It has consistently outperformed them in terms of speed, undetectability, script execution reliability, and overall performance.
 - **Supports Both FE & SS Scripts:** Apex allows you to execute **Filtering Enabled** and **Server-Sided** scripts with full bypasses of Roblox’s security layers. It brings back the freedom of pre-Hyperion and pre-FE environments, making script execution easy and unrestricted.
 
 ### Why Apex Stands Out
