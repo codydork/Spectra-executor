@@ -2,16 +2,18 @@
 
 ### Overview
 
-This is an **experimental Roblox executor** that utiliises a newly discovered exploit to provide privileged access within the game. The exploit makes use of specific **FFlags** and **running processes** to grant the user admin-level permissions, enabling advanced scripting capabilities.
+This is an **experimental Roblox executor** that utiliises a newly discovered exploit to provide privileged access within the game. The exploit makes use of specific **FFlags** and **running processes** to grant the user admin-level permissions, enabling advanced and powerful exploits eg require scripts, that would usually require an ss executor to be executed with ease.
 
 ### Features
 
 - **Privileged Access:** The executor provides access equivalent to an admin account, allowing for more control and flexibility during gameplay.
 - **Exploit Mechanics:** Utilizes a unique combination of FFlags and internal processes within the Roblox environment.
 - **Script Execution:** Supports **FE (Filtering Enabled)**, **SS (Server-Sided)**, and other script types, allowing you to run scripts as if in a **post-Hyperion** and **post-FE** environment.
+- **Speed:** the exploit just so happens to give insane execution speed, especially when running big scripts.
 
 ### What this means:
 - You can run scripts with extended privileges, typically reserved for admin users.
+- this will revolutionise the way executors are made and used, most likely
 - Execute both client-side and server-side scripts effectively.
 - Bypass certain in-game restrictions related to Roblox's security layers (Filtering Enabled).
 
