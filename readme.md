@@ -1,74 +1,79 @@
-# Vortex Roblox Executor (Experimental, in very early beta)
+# Apex Roblox Executor (Experimental, in very early beta)
 
-### coming soon! (Made entirely by me)
+### Coming soon! (Made entirely by me)
 
 ### Overview
 
-This is an **experimental Roblox executor** that utilizes a newly discovered exploit to provide **privileged access** within the game. The exploit makes use of specific **FFlags** and **running processes**, granting admin-level permissions that allow advanced exploits such as **require scripts**, **server-sided (SS) scripts**, and more. The executor is designed to be fast, reliable, and compatible with both **desktop versions** of Roblox (website and app). 
+**Apex** is an **experimental Roblox executor** that uses a newly discovered exploit to provide **privileged access** within the game. By leveraging specific **FFlags** and **running processes**, Apex grants admin-level permissions, allowing for advanced exploits such as **require scripts**, **server-sided (SS) scripts**, and more. Apex is designed for **speed**, **reliability**, and **cross-platform compatibility**, working on both the **website** and **app versions** of Roblox on desktop.
 
-A mobile version is in development, as the same exploit has been found to work on **Roblox mobile** as well.
+A **mobile version** is also in development, as the same exploit has been confirmed to work on **Roblox mobile**.
+
+### Pricing
+
+**Apex is a paid executor**. It is available for **£10 per month**, giving you access to its full range of features, including **fast execution**, **SaveInstance** capabilities, and the **expansive script library**.
 
 ### Features
 
-- **Privileged Access:** Provides access equivalent to that of an admin, allowing for complete control and flexibility during gameplay.
-- **Exploit Mechanics:** Utilizes a robust combination of **FFlags** and internal Roblox processes, bypassing modern game security measures like **Filtering Enabled (FE)**.
-- **Cross-Platform Compatibility:** Works seamlessly on both the **website** and **app** versions of Roblox on desktop, ensuring full functionality regardless of how Roblox is accessed.
-- **Expansive Script Library:** Includes a wide array of pre-built scripts, including **require scripts**, **FE scripts**, and other advanced exploit scripts that are ready to use. The library is continually expanding, allowing users to access the latest exploits with ease.
-- **Speedy Execution:** The executor offers **blazing fast execution speeds**, especially for large and complex scripts. Users experience minimal lag, even when running resource-heavy scripts.
-- **Undetectable:** Designed to minimize detection, the executor operates stealthily within the Roblox environment, significantly reducing the risk of bans or other consequences.
-- **Advanced SaveInstance:** The built-in **SaveInstance** feature allows users to save **server scripts**, **local scripts**, **assets**, and other critical game data with remarkable speed and precision. This tool is optimized to handle complex data extraction with high accuracy.
-- **Stylish and Intuitive UI:** The executor includes a user-friendly and visually appealing interface, making it easy to navigate and execute scripts efficiently.
-- **Tested Against Leading Executors:** Yes,  we did test against other executors despite very early stages of development. This executor has been throughly tested against other popular executors such as **Solara**, **Celery**, **Byte Breaker**, and more. It has consistently outperformed them in terms of speed, undetectability, script execution reliability, and overall performance, thanks to the recently discovered exploit.
-- **Supports Both FE & SS Scripts:** Execute **Filtering Enabled** and **Server-Sided** scripts with full bypasses of Roblox’s security layers, allowing you to achieve scripting capabilities that would typically require far more complex tools, and is very easy, almost as if you were in a time before fe and hyperion and all that, even I sometimes forget we are in a period where there is fe and hyperion when using this.
+- **Privileged Access:** Apex provides access equivalent to that of an admin, allowing full control and flexibility during gameplay.
+- **Exploit Mechanics:** Utilizes a powerful combination of **FFlags** and internal Roblox processes to bypass modern security features like **Filtering Enabled (FE)** and **Hyperion**.
+- **Cross-Platform Compatibility:** Apex works seamlessly on both the **website** and **app** versions of Roblox, ensuring full functionality regardless of how Roblox is accessed.
+- **Expansive Script Library:** Apex comes with a **large, curated library of pre-built scripts**, including **require scripts**, **FE scripts**, and other advanced exploits. This library is continuously expanding, giving you access to the latest and most powerful scripts.
+- **Speedy Execution:** Apex delivers **blazing fast script execution**, especially for large or complex scripts. It processes scripts quickly, ensuring smooth performance without lag, even when running resource-heavy exploits.
+- **Undetectable:** Designed to minimize detection, Apex operates stealthily within Roblox, significantly reducing the risk of account bans or other penalties.
+- **Advanced SaveInstance:** The built-in **SaveInstance** feature allows you to save **server scripts**, **local scripts**, **assets**, and other critical game data with high speed and accuracy. Apex’s SaveInstance is far superior to competitors, ensuring reliable extraction of game data.
+- **Stylish and Intuitive UI:** Apex features a clean, user-friendly interface that makes it easy to navigate and execute scripts, even for beginners.
+- **Tested Against Leading Executors:** Apex has been tested against other leading executors like **Solara**, **Celery**, **Byte Breaker**, and more. It has consistently outperformed them in terms of speed, undetectability, script execution reliability, and overall performance.
+- **Supports Both FE & SS Scripts:** Apex allows you to execute **Filtering Enabled** and **Server-Sided** scripts with full bypasses of Roblox’s security layers. It brings back the freedom of pre-Hyperion and pre-FE environments, making script execution easy and unrestricted.
 
-### Why This Executor Stands Out
+### Why Apex Stands Out
 
-- **Superior Script Library:** Unlike most executors, this tool offers an expansive, **curated script library**, ensuring you have access to the latest **FE** and **require scripts**. Scripts that normally wouldn’t run on regular executors can be executed easily.
-- **Unparalleled Speed:** Whether you're running small scripts or large, complex exploits, the executor handles it all **with unmatched speed**. It processes scripts faster than competitors, including **Solara** and **Celery**, making it one of the fastest executors available.
-- **Cross-Platform Functionality:** Works on both **website** and **app** versions of Roblox, providing maximum versatility for users who prefer different platforms.
-- **Undetectable Execution:** By utilizing advanced exploit techniques, the executor is highly undetectable compared to other tools, offering more security and peace of mind.
-- **Comprehensive SaveInstance:** The SaveInstance feature allows you to save **entire game states** quickly and with high accuracy, including server scripts and complex assets—far superior to other executors' SaveInstance tools, which often struggle with speed or completeness.
+- **Superior Script Library:** Apex offers an **expansive and curated library** of the latest scripts, including **FE** and **require scripts** that normally wouldn’t run on other executors.
+- **Unmatched Speed:** Apex processes scripts **faster** than other executors, including **Solara**, **Celery**, and **Byte Breaker**, making it one of the most efficient tools on the market.
+- **Cross-Platform Functionality:** Apex works seamlessly on both the **website** and **app** versions of Roblox on desktop, giving users the flexibility to choose their preferred platform.
+- **Undetectable Execution:** Apex is engineered for stealth, ensuring your scripts run undetected by Roblox’s anti-cheat systems.
+- **Comprehensive SaveInstance:** The **SaveInstance** feature allows you to save **entire game states** quickly and accurately, far surpassing other executors in terms of speed and completeness. You can extract complex game data, including server scripts, assets, and more, with minimal effort.
 
-### What’s Coming Next
+### Coming Soon
 
-- **Mobile Version in Development:** A mobile version of this executor is on the way! The same exploit was found to work on **Roblox mobile**, and development has already begun. Expect similar features, including script execution and SaveInstance, to work on **mobile devices** soon.
+- **Mobile Version in Development:** A mobile version of Apex is in the works! The same exploit found on desktop versions of Roblox is confirmed to work on **Roblox mobile**, and development is already underway. Expect the same powerful features, including script execution and SaveInstance, to be available on **mobile devices** soon.
 
 ### Disclaimer
-**This is an experimental tool and should be used with caution.** Misuse of exploits may result in account bans or other consequences. Always be aware of the risks involved when using exploits in Roblox.
+
+**This is an experimental tool and should be used with caution.** Misuse of exploits can result in account bans or other consequences. Always be aware of the risks when using exploits in Roblox.
 
 ---
 
 ### How to Use
 
 1. **Download** the executor from the [releases section](#). ***(NOT RELEASED YET)***
-2. Launch the executor and follow the instructions provided to attach it to your Roblox process (works on both the **website** and **app versions**).
-3. Use supported scripts from the **expansive script library** or your own custom scripts to leverage the full potential of the executor.
+2. Launch Apex and follow the provided instructions to attach it to your Roblox process (works on both the **website** and **app versions**).
+3. Use the **expansive script library** or your own custom scripts to unlock the full potential of the executor.
 
 ### Prerequisites
 
 - A basic understanding of Roblox executors and scripting.
-- **Administrator access** on your local machine is required to run the executor properly.
+- **Administrator access** on your local machine is required to run the executor.
 
 ### Roadmap
 
-- [ ] Improve stability and support for more Roblox game scripts.
-- [ ] Further enhance UI/UX for an even smoother user experience.
-- [ ] Continue testing and improving **anti-detection** capabilities.
-- [ ] Expand the **SaveInstance** functionality to cover more complex game data, scripts and structures.
+- [ ] Improve stability and add support for more Roblox game scripts.
+- [ ] Continue enhancing the **UI/UX** for an even smoother user experience.
+- [ ] Further test and improve **anti-detection** capabilities to ensure undetectability.
+- [ ] Expand the **SaveInstance** feature to cover even more complex game data, scripts, and assets.
 - [ ] Release a **mobile version** of the executor.
 
 ---
 
 ### Feedback & Contributions
 
-This project is an ongoing experiment, and community feedback is crucial! If you encounter any bugs, have feature suggestions, or want to contribute, feel free to open an issue or submit a pull request.
+This project is constantly evolving, and your feedback is invaluable! If you encounter any bugs, have feature suggestions, or wish to contribute, feel free to open an issue or submit a pull request.
 
 ---
 
 ### Legal Disclaimer
 
-This tool is provided for **educational purposes only**. The developers are not responsible for any misuse of the software, including account bans or other consequences. By using this tool, you acknowledge the risks and accept full responsibility for any actions taken.
+Apex is provided for **educational purposes only**. The developers are not responsible for any misuse of the software, including account bans or other consequences. By using this tool, you acknowledge the risks and accept full responsibility for your actions.
 
 ---
 
-Thank you for using the Roblox Executor! We hope it helps unlock new scripting possibilities and enhances your Roblox experience. Stay tuned for upcoming updates, including the highly anticipated **mobile version**.
+Thank you for choosing **Apex Roblox Executor**! We’re confident it will unlock new possibilities for your Roblox scripting experience. Stay tuned for updates, including the highly anticipated **mobile version**!
