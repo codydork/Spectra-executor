@@ -1,6 +1,6 @@
 # ⚡ Apex Roblox Executor (Experimental, Early Beta)
 
-### 🚀 Coming soon! (Made entirely by me, a team is coming soon) watch 👀 or star ⭐ this repo to keep up with whats happening.
+### 🚀 Coming soon! (Made entirely by me, codydork, a team is coming soon) watch 👀 or star ⭐ this repo to keep up with whats happening.
 
 ---
 
