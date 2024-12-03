@@ -4,7 +4,7 @@
 
 ---
 
-NOTES: feel free to decompile this upon release to ensure its not a **RAT**, as i am fine with people looking at how the exploit works, but you ***CANNOT SKID*** the code, or the workings of the code responsible for automating doing the exploit and giving admin level acces, and bypassing fe and hyperion either, which cannot be decompiled from the exe, incase you try to skid it, because I cannot stand skidding, as it has happened in prev projects.
+NOTE: feel free to decompile this upon release to ensure its not a **RAT**, as i am fine with people looking at how the exploit works, but you ***CANNOT SKID*** the code, or the workings of the code responsible for automating doing the exploit and giving admin level acces, and bypassing fe and hyperion either, which cannot be decompiled from the exe, incase you try to skid it, because I cannot stand skidding, as it has happened in prev projects.
 
 ---
 
