@@ -4,6 +4,10 @@
 
 ---
 
+NOTES: feel free to decompile this upon release to ensure its not a RAT, as i am fine with people looking at how the exploit works, but you CANNOT SKID the code, or the exploit either, which cannot be decompiled from the exe, incase you try to skid it.
+
+---
+
 join discord pls: https://discord.gg/KzY3PmZuWC
 
 ---
@@ -24,7 +28,7 @@ join discord pls: https://discord.gg/KzY3PmZuWC
 
 ### 🌟 Features
 
-- **👑 Privileged Access:** Apex provides admin-level access, as if you were the owner of the game, or like the root user on linux, offering complete control and flexibility in gameplay, and bypassing fe and hyperion with ease as if you were in a post hyperion and fe enviroment, sometimes I even forget I am in an era with hyperion and fe when using this executor
+- **👑 Privileged Access:** Apex provides admin-level access, boasting around level 9 or above approx, as if you were the owner of the game, or like the root user on linux, offering complete control and flexibility in gameplay, and bypassing fe and hyperion with ease as if you were in a post hyperion and fe enviroment, sometimes I even forget I am in an era with hyperion and fe when using this executor
 - **⚙️ Exploit Mechanics:** A powerful combination of certain **FFlags**, exploiting them, then manipulating running code within the game allows Apex to bypass **Filtering Enabled (FE)** and **Hyperion** restrictions.
 - **🖥️ Cross-Platform Compatibility:** Works on both the **website** and **app** versions of Roblox on desktop for seamless functionality.
 - **📜 Expansive Script Library:** Apex includes a **growing collection of scripts** like **require scripts**, **FE scripts**, and more. This library is continuously updated with the latest and most powerful scripts.
